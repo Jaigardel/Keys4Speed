@@ -4,7 +4,7 @@
 
 🔹Scores
 
-If you type correctly you will get a point an some extra time.
+If you type correctly you will get a point and, if it´s a vowel, you will get some extra time.
 
 If you make a mistake, your score will be reduced by 1.
 
